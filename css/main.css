@@ -227,10 +227,11 @@ body {
 
 @media (max-width: 600px) {
   #main-nav {
-    flex-direction: column; }
+    flex-direction: column;
+    padding: 20px; }
 
   .header-content h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     color: #ff76e1;
     margin: 120px 20px 0 20px;
     line-height: 1; }
@@ -241,7 +242,7 @@ body {
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 40px;
-    margin-bottom: 100px; }
+    margin-bottom: 70px; }
 
   #section-a h1 {
     font-size: 3rem;
