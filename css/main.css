@@ -294,6 +294,10 @@ body {
   .social {
     display: none; } }
 @media (max-height: 400px) {
+  
+  #header-home .container-contatti {
+  height: 100%; }
+  
   .header-content h1 {
     font-size: 4rem;
     margin-top: 40px; }
