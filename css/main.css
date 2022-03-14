@@ -231,6 +231,7 @@ body {
     padding: 20px; }
   
   #logo {
+    padding-bottom: 15px;
     transform: scale(2); }
 
   .header-content h1 {
