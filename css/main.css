@@ -202,9 +202,9 @@ body {
       padding: 0 10px;
       width: 500px;
       height: 40px; }
-   .form .text-fields .message-imput {
+   .form .text-fields .message-input {
      padding-top: 15px;
-     font-family: "Ubuntu", sans-serif;  
+     font-family: "Ubuntu", sans-serif; } 
   .form h2 {
     font-family: "Great Vibes", cursive;
     font-size: 4rem;
