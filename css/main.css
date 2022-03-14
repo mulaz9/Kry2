@@ -229,6 +229,9 @@ body {
   #main-nav {
     flex-direction: column;
     padding: 20px; }
+  
+  #logo {
+    transform: scale(2); }
 
   .header-content h1 {
     font-size: 4rem;
