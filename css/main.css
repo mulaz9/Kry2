@@ -273,6 +273,7 @@ body {
     #cards .card .card-text {
       display: none; }
     #cards .card .card-body {
+      margin-left: -110px;
       padding: 0; }
 
   #main-footer p {
