@@ -258,8 +258,14 @@ body {
     padding: 10px;
     padding-top: 20px;
     line-height: 1; }
+  
+  #cards .card {
+    justify-content: center;
+    align-items: center;
+    text-align: center; }
 
    #cards .card h3 {
+     text-align: left;
       margin-top: 30px; }
 
   #main-footer p {
