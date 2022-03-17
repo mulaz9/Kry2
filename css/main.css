@@ -292,14 +292,15 @@ body {
   #cards .card {
     display: flex;
     flex-direction: column;
-    width: 80%;
-    margin: auto; 
+    width: 80%; 
     justify-content: center;
     align-items: center;
     text-align: center; }
     #cards .card h3 {
       padding: 20px 0; }
   #cards .card .card-body {
+      margin: auto; }
+  #cards .card .card-text {
       margin: auto; }
 
   .social {
