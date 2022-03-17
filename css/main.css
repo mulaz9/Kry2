@@ -255,7 +255,8 @@ body {
 
   #section-a h1 {
     font-size: 4rem;
-    padding: 10px; }
+    padding: 10px;
+    line-height: 1; }
 
   #cards .card {
     display: flex;
