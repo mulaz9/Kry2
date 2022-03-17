@@ -136,9 +136,10 @@ body {
   color: white; }
   #cards .card {
     font-family: "Ubuntu", sans-serif;
-    padding: auto;
+    padding: 50px;
     margin: auto;
     display: flex;
+    justify-content: center;
     width: 60%;
     border-bottom: 2px solid #ff76e1; }
     #cards .card h3 {
