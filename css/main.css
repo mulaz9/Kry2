@@ -298,6 +298,8 @@ body {
     text-align: center; }
     #cards .card h3 {
       padding: 20px 0; }
+  #cards .card .card-body {
+      margin: auto; }
 
   .social {
     display: none; } }
