@@ -146,11 +146,11 @@ body {
       color: #ff76e1;
       text-transform: uppercase; }
     #cards .card p {
-      max-width: 150px;
+      max-width: 200px;
       font-weight: bold; }
     #cards .card .card-body {
       padding: 0 60px;
-      margin: 0 auto;
+      margin: 0 70px;
       color: black; }
     #cards .card-7 {
       border-bottom: none; }
