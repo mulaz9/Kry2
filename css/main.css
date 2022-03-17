@@ -136,8 +136,8 @@ body {
   color: white; }
   #cards .card {
     font-family: "Ubuntu", sans-serif;
+    padding: auto;
     margin: auto;
-    padding: 50px;
     display: flex;
     width: 60%;
     border-bottom: 2px solid #ff76e1; }
