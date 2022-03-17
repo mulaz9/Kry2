@@ -139,7 +139,7 @@ body {
     padding: 50px;
     margin: auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     width: 60%;
     border-bottom: 2px solid #ff76e1; }
     #cards .card h3 {
@@ -150,7 +150,6 @@ body {
       max-width: 200px;
       font-weight: bold; }
     #cards .card .card-body {
-      margin-left: 110px;
       width: 280px;
       color: black; }
     #cards .card-7 {
@@ -273,7 +272,6 @@ body {
     #cards .card .card-text {
       display: none; }
     #cards .card .card-body {
-      margin-left: -110px;
       padding: 0; }
 
   #main-footer p {
