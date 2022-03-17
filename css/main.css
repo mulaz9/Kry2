@@ -146,6 +146,7 @@ body {
       color: #ff76e1;
       text-transform: uppercase; }
     #cards .card p {
+      max-width: 150px;
       font-weight: bold; }
     #cards .card .card-body {
       padding: 0 60px;
@@ -253,7 +254,7 @@ body {
     margin-bottom: 70px; }
 
   #section-a h1 {
-    font-size: 3rem;
+    font-size: 4rem;
     padding: 10px; }
 
   #cards .card {
