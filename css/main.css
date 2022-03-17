@@ -267,8 +267,7 @@ body {
     align-items: center;
     text-align: center; }
     #cards .card h3 {
-      margin-top: 30px;
-      justify-content: center; }
+      margin-top: 30px; }
     #cards .card .card-text {
       display: none; }
     #cards .card .card-body {
