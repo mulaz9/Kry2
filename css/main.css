@@ -151,6 +151,7 @@ body {
       font-weight: bold; }
     #cards .card .card-body {
       margin-left: 150px;
+      width: 100%;
       color: black; }
     #cards .card-7 {
       border-bottom: none; }
