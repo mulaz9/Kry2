@@ -293,16 +293,14 @@ body {
     display: flex;
     flex-direction: column;
     width: 80%;
+    margin: auto; 
     justify-content: center;
     align-items: center;
     text-align: center; }
     #cards .card h3 {
       padding: 20px 0; }
   #cards .card .card-body {
-      margin: auto;
-      justify-content: center;
-      align-items: center;
-      text-align: center;}
+      margin: auto; }
 
   .social {
     display: none; } }
