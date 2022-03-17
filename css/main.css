@@ -299,7 +299,10 @@ body {
     #cards .card h3 {
       padding: 20px 0; }
   #cards .card .card-body {
-      margin: auto; }
+      margin: auto;
+      justify-content: center;
+      align-items: center;
+      text-align: center;}
 
   .social {
     display: none; } }
