@@ -267,11 +267,10 @@ body {
     align-items: center;
     text-align: center; }
     #cards .card h3 {
+      margin: auto;
       margin-top: 30px; }
     #cards .card .card-text {
       display: none; }
-    #cards .card .card-body {
-      padding: 0; }
 
   #main-footer p {
     font-size: 0.7rem; }
