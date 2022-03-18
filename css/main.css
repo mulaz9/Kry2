@@ -293,11 +293,12 @@ body {
     align-items: center;
     text-align: center; }
     #cards .card .card-body {
-      padding: 20px 15px 0 15px;
-   
+      padding: 20px 15px 0 15px; }
   
-  .social {
-    display: none; } }
+  #main-footer .social,
+  #main-footer .developer, {
+    transform: scale (0.7) } }
+
 @media (max-height: 400px) {
   
   #header-home .container-contatti {
