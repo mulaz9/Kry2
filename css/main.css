@@ -231,6 +231,11 @@ body {
   height: 100px; }
 
 @media (max-width: 600px) {
+  
+  * {
+    margin: 0;
+    padding:0; }
+  
   #main-nav {
     flex-direction: column;
     padding: 20px; }
