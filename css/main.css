@@ -271,6 +271,9 @@ body {
 
    #cards .card h3 {
       margin-top: 30px; }
+  
+  #cards .card p {
+    max-width: 400px;
 
   #main-footer p {
     font-size: 0.7rem; }
