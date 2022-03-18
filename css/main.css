@@ -232,9 +232,6 @@ body {
 
 @media (max-width: 600px) {
   
-  * {
-    margin: 0;
-    padding:0; }
   
   #main-nav {
     flex-direction: column;
@@ -271,9 +268,6 @@ body {
 
    #cards .card h3 {
       margin-top: 30px; }
-  
-  #cards .card p {
-    text-align: center;
 
   #main-footer p {
     font-size: 0.7rem; }
@@ -288,7 +282,7 @@ body {
     margin-top: 10px; }
   .form .text-fields .text-input {
     width: 300px;
-    height: 30px; }
+    height: 30px; } }
   
 @media (max-width: 1200px) {
   #cards .card {
@@ -313,6 +307,6 @@ body {
     margin-top: 40px; }
   .header-content p {
     font-size: 1.5rem;
-    margin-bottom: 30px; }
+    margin-bottom: 30px; } }
 
 /*# sourceMappingURL=main.css.map */
