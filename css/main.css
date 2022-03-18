@@ -165,9 +165,8 @@ body {
 #main-footer {
   font-family: "Ubuntu", sans-serif;
   background-color: #ff76e1;
-  padding: 0 10px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center; }
   #main-footer .social i {
     padding: 0 8px; }
