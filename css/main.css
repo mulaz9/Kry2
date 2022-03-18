@@ -277,6 +277,8 @@ body {
     #main-footer .developer p {
       width: 30px;
       margin-right: 30px; }
+    #main-footer .social {
+      display: none; }
 
   .form h2 {
     margin-top: 10px; }
@@ -293,11 +295,7 @@ body {
     align-items: center;
     text-align: center; }
     #cards .card .card-body {
-      padding: 20px 15px 0 15px; }
-  
-  #main-footer .social,
-  #main-footer .developer, {
-    transform: scale (0.7); } }
+      padding: 20px 15px 0 15px; } }
 
 @media (max-height: 400px) {
   
