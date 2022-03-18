@@ -294,10 +294,10 @@ body {
     text-align: center; }
     #cards .card h3 {
       padding: 20px 0; }
-    #cards .card p {
+    #cards .card .card-text {
     justify-content: center;
     align-items: center;
-      text-align: center; }
+    text-align: center; }
   
   .social {
     display: none; } }
