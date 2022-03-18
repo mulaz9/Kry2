@@ -293,7 +293,7 @@ body {
     align-items: center;
     text-align: center; }
     #cards .card .card-body {
-      padding: 15px;
+      padding: 20px 15px 0 15px;
    
   
   .social {
