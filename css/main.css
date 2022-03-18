@@ -294,7 +294,8 @@ body {
     text-align: center; }
     #cards .card h3 {
       padding: 20px 0; }
-    #cards .card .card-text {
+    #cards .card .card-body {
+    margin: auto;
     justify-content: center;
     align-items: center;
     text-align: center; }
