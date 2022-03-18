@@ -297,7 +297,7 @@ body {
   
   #main-footer .social,
   #main-footer .developer, {
-    transform: scale (0.7) } }
+    transform: scale(0.7) } }
 
 @media (max-height: 400px) {
   
