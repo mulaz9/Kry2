@@ -157,7 +157,7 @@ body {
   #cards .card img {
     height: 250px;
     width: 250px;
-    border-radius: 50%;
+    border-radius: 20%;
     margin: 0;
     border: 1px solid #ff76e1; }
 
