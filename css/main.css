@@ -169,7 +169,7 @@ body {
   justify-content: space-around;
   align-items: center; }
 #main-footer .social {
-  padding-right: 20px;
+  padding-right: 20px; }
   #main-footer .social i {
     padding: 0 8px; }
     #main-footer .social i:hover {
